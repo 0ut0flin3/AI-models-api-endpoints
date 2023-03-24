@@ -1,1 +1,9 @@
-['https://sharegpt.churchless.tech/share/v1/chat','https://chatgpt-api.shn.hk/v1/']
+{
+  "endpoints": [
+    { "url": "https://sharegpt.churchless.tech/share/v1/chat" , "info":  "free GPT-3/4 API endpoint. Payload format is the same same as that used by OpenAI's API" },
+    {},
+    {},
+    {}
+    
+         ]   
+}
