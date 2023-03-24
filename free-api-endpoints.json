@@ -1,6 +1,6 @@
 {
   "endpoints": [
-    { "url": "https://sharegpt.churchless.tech/share/v1/chat" , "info":  "free GPT-3/4 API endpoint. Payload format is the same same as that used by OpenAI's API" },
+    { "url": "https://sharegpt.churchless.tech/share/v1/chat" , "model":"openai/gpt-3.5-turbo" , "description":"free GPT-3 API endpoint", "payload_example":{"model": "gpt-3.5-turbo", "messages": [{"role": "system", "content": "Your name is Erik"},{"role": "user", "content": "What's your name?"}]} },
     {},
     {},
     {}
