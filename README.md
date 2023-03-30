@@ -5,6 +5,9 @@
 
 
 ## IDEAS
+
+GPT4ALL : https://github.com/nomic-ai/gpt4all
+
 THUDM/ChatGLM-6B API Deployment : https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md#api-deployment
 
 THUDM/Codegeex Code Generation : https://github.com/THUDM/Codegeex
