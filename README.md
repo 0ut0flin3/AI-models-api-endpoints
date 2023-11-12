@@ -12,3 +12,5 @@ THUDM/ChatGLM-6B API Deployment : https://github.com/THUDM/ChatGLM-6B/blob/main/
 
 THUDM/Codegeex Code Generation : https://github.com/THUDM/Codegeex
 
+**VisionCraft** Free and Unlimited API for image generation : https://github.com/Metim0l/VisionCraft
+
